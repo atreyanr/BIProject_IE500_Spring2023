@@ -7,3 +7,5 @@ In this project, we aim to utilize Business Intelligence (BI) techniques to anal
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+# Installation
