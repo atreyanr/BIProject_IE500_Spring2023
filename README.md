@@ -9,3 +9,6 @@ In this project, we aim to utilize Business Intelligence (BI) techniques to anal
 - [License](#license)
 
 # Installation
+# Usage
+# Contributing
+# License
